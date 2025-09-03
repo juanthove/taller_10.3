@@ -45,3 +45,6 @@ limpiar.addEventListener("click", () => {
     mostrarListado();
 })
 
+document.addEventListener("DOMContentLoaded", () => {
+    mostrarListado();
+});
